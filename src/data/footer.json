@@ -1,0 +1,35 @@
+{
+    "en-US": [],
+    "pt-BR": [
+        {
+            "title": "Soluções",
+            "link": "#",
+            "head": ""
+        }, 
+        {
+            "title": "Pesquisas",
+            "link": "#",
+            "head": ""
+        },
+        {
+            "title": "Quem Somos",
+            "link": "/quem-somos",
+            "head": "CyberLabs - Quem somos"
+        },
+        {
+            "title": "Imprensa",
+            "link": "/imprensa",
+            "head": "CyberLabs - Imprensa"
+        },
+        {
+            "title": "Contato",
+            "link": "contato",
+            "head": "CyberLabs - Contato"
+        },
+        {
+            "title": "Trabalhe conosco",
+            "link": "/trabalhe-conosco",
+            "head": "CyberLabs - Trabalhe conosco"
+        }
+    ]       
+}

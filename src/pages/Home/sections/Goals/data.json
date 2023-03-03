@@ -1,0 +1,23 @@
+{
+    "en-US": [],
+    "pt-BR": [
+        {
+            "alt": "I.A. image",
+            "image_url": "https://cyberlabs.ai/wp-content/uploads/2021/07/cyberlabs_head.svg",
+            "title": "ESTADO DA <br /> ARTE I.A.",
+            "desc": "Temos como foco trabalhar e desenvolver a Inteligência Artificial mais avançada do mundo em nossas aplicações."
+        },
+        {
+            "alt": "Lider em pesquisa image",
+            "image_url": "https://cyberlabs.ai/wp-content/uploads/2021/07/cyberlabs_atom.svg",
+            "title": "LÍDER EM <br /> PESQUISA",
+            "desc": "Nos conectamos com as principais instituições de ensino e pesquisa para o aperfeiçoamento de nossas tecnologias."
+        },
+        {
+            "alt": "Empodera a segurança image",
+            "image_url": "https://cyberlabs.ai/wp-content/uploads/2021/07/cyberlabs_search_bug.svg",
+            "title": "EMPODERAR A SEGURANÇA",
+            "desc": "Nossas principais tecnologias têm como papel trazer mais segurança para as pessoas, seja no ambiente físico ou digital."
+        }
+    ]       
+}

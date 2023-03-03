@@ -1,0 +1,47 @@
+{
+    "en-US": [],
+    "pt-BR": [
+        {
+            "title": "Soluções",
+            "link": "#",
+            "head": null,
+            "dropdown": [
+                {"title": "dfndr enterprise" , "link": "/dfndr-enterprise", "head": "CyberLabs - dfndr enterprise"},
+                {"title": "dfndr security" , "link": "/dfndr-security", "head": "CyberLabs - dfndr security"}
+            ]
+        }, 
+        {
+            "title": "Pesquisas",
+            "link": "#",
+            "head": null,            
+            "dropdown": [
+                {"title": "dfndr labs" , "link": "/dfndr-labs", "head": "CyberLabs - dfndr labs"},
+                {"title": "dfndr security" , "link": "https://www.youtube.com/channel/UCSdRcBM9OqR83B5IUIltkJQ", "head": null}
+            ]
+        },
+        {
+            "title": "Quem Somos",
+            "link": "/quem-somos",
+            "head": "CyberLabs - Quem somos",
+            "dropdown": null
+        },
+        {
+            "title": "Imprensa",
+            "link": "/imprensa",
+            "head": "CyberLabs - Imprensa",
+            "dropdown": null
+        },
+        {
+            "title": "Contato",
+            "link": "contato",
+            "head": "CyberLabs - Contato",
+            "dropdown": null
+        },
+        {
+            "title": "Trabalhe conosco",
+            "link": "/trabalhe-conosco",
+            "head": "CyberLabs - Trabalhe conosco",
+            "dropdown": null
+        }
+    ]       
+}

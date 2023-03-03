@@ -1,0 +1,59 @@
+{
+    "en-US": [],
+    "pt-BR": [
+        {
+            "title": "FOLHA DE S.PAULO",
+            "text": "Veja como ataques de ransoware podem atingir empresas",
+            "link": "https://www1.folha.uol.com.br/mercado/2022/03/veja-como-ataques-de-ransomware-podem-atingir-empresas.shtml",
+            "src": "https://cyberlabs.ai/wp-content/uploads/2022/05/15175438395a73e19f3e302_1517543839_3x2_lg-768x512.jpg",
+            "alt": "",
+            "width": 184,
+            "height": 240
+        },
+        {
+            "title": "MOBILE TIME",
+            "text": "Qualquer empresa está sujeita a ataque digital, diz CEO da PSafe",
+            "link": "https://www.mobiletime.com.br/noticias/23/02/2022/qualquer-empresa-esta-sujeita-a-ataque-similar-ao-que-atingiu-a-americanas-diz-ceo-da-psafe/",
+            "src": "https://cyberlabs.ai/wp-content/uploads/2022/05/shutterstock_287395955.jpg",
+            "alt": "",
+            "width": 184,
+            "height": 240
+        },
+        {
+            "title": "ECONOMIA.ESTADAO.COM.BR ",
+            "text": "'Recebi ligações de empresários em pânico após caso da Renner', diz presidente da PSafe",
+            "link": "https://economia.estadao.com.br/noticias/negocios,recebi-ligacoes-de-empresarios-em-panico-apos-caso-da-renner-diz-presidente-da-psafe,70003817291",
+            "src": "https://cyberlabs.ai/wp-content/uploads/2021/09/190345473-768x581.jpg",
+            "alt": "",
+            "width": 184,
+            "height": 240
+        },
+        {
+            "title": "CANALTECH.COM.BR ",
+            "text": "Com ransomware em alta, PSafe lança seguro para proteção de dados corporativos",
+            "link": "https://economia.estadao.com.br/noticias/negocios,recebi-ligacoes-de-empresarios-em-panico-apos-caso-da-renner-diz-presidente-da-psafe,70003817291",
+            "src": "https://cyberlabs.ai/wp-content/uploads/2021/09/ramsomware_em_alta_1.jpeg",
+            "alt": "",
+            "width": 184,
+            "height": 240
+        },
+        {
+            "title": "CANALTECH.COM.BR ",
+            "text": "Vídeo mostra como funciona o ransomware que teria atacado a Lojas Renner",
+            "link": "https://canaltech.com.br/seguranca/video-mostra-como-funciona-o-ransomware-que-teria-atacado-a-lojas-renner-194385/",
+            "src": "https://cyberlabs.ai/wp-content/uploads/2021/09/i495519-768x384.jpeg",
+            "alt": "",
+            "width": 184,
+            "height": 240
+        },
+        {
+            "title": "COMPUTERWORLD.COM.BR ",
+            "text": "Inteligência artificial é caminho para defesa contra ciberataques",
+            "link": "http://computerworld.com.br/seguranca/inteligencia-artificial-e-caminho-para-defesa-contra-ciberataques/",
+            "src": "https://cyberlabs.ai/wp-content/uploads/2021/07/AdobeStock_265280757-768x387.jpg",
+            "alt": "",
+            "width": 184,
+            "height": 240
+        }
+    ]
+}
